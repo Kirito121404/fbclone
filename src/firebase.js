@@ -4,12 +4,13 @@ import { getStorage } from "firebase/storage";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBTezT8hv-SGmQ63Uu4gdAeZD_rO2b8BIM",
-  authDomain: "facebook-clone-d98a5.firebaseapp.com",
-  projectId: "facebook-clone-d98a5",
-  storageBucket: "facebook-clone-d98a5.appspot.com",
-  messagingSenderId: "533021321998",
-  appId: "1:533021321998:web:0916ada2c82d546a43455f",
+  apiKey: "AIzaSyBTLQpGODtI7vDam-RPa4MK0VKaBtKEI0c",
+  authDomain: "twst-a45f2.firebaseapp.com",
+  databaseURL: "https://twst-a45f2-default-rtdb.firebaseio.com",
+  projectId: "twst-a45f2",
+  storageBucket: "twst-a45f2.appspot.com",
+  messagingSenderId: "42709873874",
+  appId: "1:42709873874:web:2b3d8037dbb4dfe366290b"
 };
 
 // Initialize Firebase
